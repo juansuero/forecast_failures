@@ -26,6 +26,7 @@ source venv/bin/activate  # On Windows use: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 ## Project Structure
+```bash
 forecast_failures/
 │
 ├── data/                # Data directory
@@ -39,7 +40,7 @@ forecast_failures/
 │
 ├── requirements.txt    # Project dependencies
 └── README.md          # Project documentation
-
+```
 ## Usage
 1. Open the Jupyter notebook:
 ```bash
