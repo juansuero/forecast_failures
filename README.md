@@ -1,6 +1,6 @@
 # Forecast Failures: Overfitting Detection Project
 
-My first ML project. I don't really know what I'm doing so don't anything you see or read too much. This project demonstrates how to detect and analyze overfitting in financial forecasting models using stock price data. It provides a practical introduction to machine learning concepts through stock price prediction.
+My first ML project. I don't really know what I'm doing, and the project is not finished, so don't trust anything you see or read too much. This project demonstrates how to detect and analyze overfitting in financial forecasting models using stock price data. It provides a practical introduction to machine learning concepts through stock price prediction.
 
 ## Overview
 The project walks through the complete machine learning workflow:
@@ -42,7 +42,7 @@ forecast_failures/
 └── README.md          # Project documentation
 ```
 ## Usage
-1. Open the Jupyter notebook:
+1. Open the Jupyter Notebook:
 ```bash
 jupyter notebook notebooks/market_data.ipynb
 ```
